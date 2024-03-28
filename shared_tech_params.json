@@ -1,0 +1,12 @@
+{
+    "assets": {
+        "AAP": {
+            "name": "ncv-js",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1648494716642x817794487570961900/ncv.js"
+        }
+    },
+    "dependencies": {
+        "plugin_api_version": "4",
+        "use_jquery": true
+    }
+}
